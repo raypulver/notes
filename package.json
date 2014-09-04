@@ -1,0 +1,16 @@
+{
+  "name": "notes",
+  "version": "0.0.1",
+  "description": "Personal CLI notetaker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Pulver IV",
+  "license": "Private",
+  "dependencies": {
+    "commander": "^2.3.0",
+    "indent-string": "^1.0.0",
+    "sqlite3": "^2.2.7"
+  }
+}
